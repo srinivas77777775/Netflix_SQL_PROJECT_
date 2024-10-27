@@ -191,8 +191,8 @@ GROUP BY 1
 
 - **Content Distribution:** The dataset includes a wide variety of TV series and films with different genres and ratings.
 - **Common Ratings:** Knowledge of the most popular ratings helps determine who the content is intended for.
-**Geographical Insights:** Regional content distribution is highlighted by the top countries and the average content releases by India.
-**Content Categorization:** Sorting content according to particular keywords aids in comprehending the type of content that is accessible on Netflix.
+- **Geographical Insights:** Regional content distribution is highlighted by the top countries and the average content releases by India.
+- **Content Categorization:** Sorting content according to particular keywords aids in comprehending the type of content that is accessible on Netflix.
 
 This research offers a thorough look into Netflix's content and can assist in guiding decision-making and content strategy.
 
