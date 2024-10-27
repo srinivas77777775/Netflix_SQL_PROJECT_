@@ -198,6 +198,3 @@ This research offers a thorough look into Netflix's content and can assist in gu
 
 
 
-This project, which is a component of my portfolio, demonstrates the SQL abilities necessary for positions as data analysts. Please contact if you would like to work together or if you have any questions or comments!
-
-
